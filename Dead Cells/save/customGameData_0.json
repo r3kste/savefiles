@@ -1,0 +1,82 @@
+{
+	"customName": "Answers ",
+	"numMaxPotions": -1,
+	"numSaveMoney": -1,
+	"numRecycling": -1,
+	"numForgeRefine": -1,
+	"cursedChestNumCurse": 0,
+	"numBossCells": -1,
+	"startingMoney": 50000,
+	"mutationLimit": -1,
+	"colorless": true,
+	"legendary": true,
+	"unlimitedAmmo": true,
+	"legendariesDisabled": false,
+	"forgeUndergroundDisabled": false,
+	"perkDisabled": false,
+	"chargedObjectDisabled": false,
+	"freeObjectDisabled": false,
+	"oneShotProtectionDisabled": false,
+	"affixesDisabled": false,
+	"authorizeDoublons": false,
+	"unlockFountain": true,
+	"oldShopCategories": false,
+	"curseHitOnePercent": true,
+	"prctForge": [
+		1,
+		0.8,
+		-1
+	],
+	"timerPermanent": 0,
+	"carriedInfection": -1,
+	"hasInfection": true,
+	"hasInfectionForEasyDifficulties": false,
+	"potionHealInfectionDisabled": false,
+	"prctOfInfectedFood": -1,
+	"itemsLocked": [
+		"QuickSword",
+		"BackStabber",
+		"DualDaggers",
+		"Bleeder",
+		"HookWhip",
+		"Pan",
+		"Crowbar",
+		"Shield",
+		"GreedShield",
+		"SpikeShield",
+		"AlucardShield",
+		"HorizontalTurret",
+		"RootTrap",
+		"FaceFlask",
+		"PolloPower",
+		"ExtraHeal"
+	],
+	"gpEnabled": [
+		10
+	],
+	"randomSkin": true,
+	"randomSkinEveryLevel": true,
+	"skinsLocked": [],
+	"preset": 10,
+	"fixedSeed": -1,
+	"forcedLeftWeapon": {
+		"forgeLevel": 0,
+		"id": "BaseballBat"
+	},
+	"forcedRightWeapon": {
+		"forgeLevel": 0,
+		"id": "ThrowableStuff"
+	},
+	"forcedLeftSkill": {
+		"forgeLevel": 0,
+		"id": "DiverseDeckJuggernaut"
+	},
+	"forcedRightSkill": {
+		"forgeLevel": 0,
+		"id": "SpawnCat"
+	},
+	"useCustomBindings": false,
+	"hasLockedTooManyItems": false,
+	"__uid": 611646,
+	"": null
+}

@@ -1,0 +1,173 @@
+Mono path[0] = 'Z:/Games/Furi/Furi_Data/Managed'
+Mono config path = 'Z:/Games/Furi/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path Z:/Games/Furi/Furi_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3950 MB
+    Driver:   31.0.15.4601
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.126 seconds
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.414200 ms
+WwiseUnity: Wwise(R) SDK Version 2021.1.6 Build 7774.
+WwiseUnity: Setting Plugin DLL path to: Z:/Games/Furi/Furi_Data\Plugins\x86_64
+WwiseUnity: Sound engine initialized successfully.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 22)
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+UnloadTime: 3.374500 ms
+InControl (version 1.8.7 build 9372)
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 5250.
+Total: 3.024400 ms (FindLiveObjects: 0.170900 ms CreateObjectMapping: 0.172700 ms MarkObjects: 2.632700 ms  DeleteObjects: 0.047200 ms)
+
+Shader 'Duels/FX/Particles/Simple Distortion': fallback shader 'Particles/Alpha Blended' not found
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1f04 -> priority: 1 
+  Thread -> id: 1f08 -> priority: 1 
+  Thread -> id: 1f0c -> priority: 1 
+  Thread -> id: 1f10 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 32)
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+UnloadTime: 4.026100 ms
+TGBVersion: 1.7.216s
+
+Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 14452.
+Total: 10.506100 ms (FindLiveObjects: 0.958300 ms CreateObjectMapping: 0.470200 ms MarkObjects: 8.891000 ms  DeleteObjects: 0.186200 ms)
+
+Object reference not set to an instance of an object
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 33)
+
+Unloading 2683 unused Assets to reduce memory usage. Loaded Objects now: 13802.
+Total: 34.519100 ms (FindLiveObjects: 0.641000 ms CreateObjectMapping: 0.659800 ms MarkObjects: 31.648100 ms  DeleteObjects: 1.569900 ms)
+
+Shader 'Duels/FX/Particles/Simple Distortion Texture (2D)': fallback shader 'Particles/Alpha Blended' not found
+Shader 'Duels/FX/Shockwave': fallback shader 'Particles/Alpha Blended' not found
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Shader 'Duels/FX/Particles/Simple Distortion Texture': fallback shader 'Particles/Alpha Blended' not found
+PlayerPawnController : can't find Sword Collider transform from MC's root (path : MC_FS(Clone)/SwordColliderTest).MC will probably make no damage
+Shader 'Duels/RingClip': fallback shader 'Transparent' not found
+Unloading 2 Unused Serialized files (Serialized files now loaded: 43)
+
+Unloading 4636 unused Assets to reduce memory usage. Loaded Objects now: 114149.
+Total: 100.418100 ms (FindLiveObjects: 8.253700 ms CreateObjectMapping: 2.803000 ms MarkObjects: 87.746000 ms  DeleteObjects: 1.614800 ms)
+
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120LR" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 31)
+
+Unloading 1880 unused Assets to reduce memory usage. Loaded Objects now: 14012.
+Total: 51.291900 ms (FindLiveObjects: 2.261900 ms CreateObjectMapping: 1.378100 ms MarkObjects: 43.520200 ms  DeleteObjects: 4.129800 ms)
+
+GlobalGameManager.GetBossNameFromLevel() did not find boss name value so Law will be used, is this intended?
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+TGBVersion: 1.7.216s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 38)
+
+Unloading 1512 unused Assets to reduce memory usage. Loaded Objects now: 23703.
+Total: 45.660400 ms (FindLiveObjects: 0.918100 ms CreateObjectMapping: 0.511700 ms MarkObjects: 43.764800 ms  DeleteObjects: 0.465400 ms)
+
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 38)
+
+Unloading 384 unused Assets to reduce memory usage. Loaded Objects now: 14019.
+Total: 45.577500 ms (FindLiveObjects: 0.571300 ms CreateObjectMapping: 0.494800 ms MarkObjects: 43.172600 ms  DeleteObjects: 1.338200 ms)
+
+Shader 'Duels/Unity5/VFX/Swipe Slash UV Mask Additive': fallback shader 'Particles/Additive' not found
+Shader 'Duels/Unity5/VFX/Swipe Slash Radial Mask Additive': fallback shader 'Particles/Additive' not found
+Shader 'Duels/FX/Shockwave': fallback shader 'Particles/Alpha Blended' not found
+Shader 'Duels/FX/Particles/Simple Distortion Texture (2D)': fallback shader 'Particles/Alpha Blended' not found
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+NavMeshAgent and NavMeshObstacle components are active at the same time. This can lead to erroneous behavior.
+Shader 'Duels/Unity5/VFX/EnergyShield': fallback shader 'Particles/Additive' not found
+Shader 'Duels/RingClip': fallback shader 'Transparent' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 43)
+
+Unloading 4699 unused Assets to reduce memory usage. Loaded Objects now: 70252.
+Total: 83.912000 ms (FindLiveObjects: 4.607500 ms CreateObjectMapping: 2.098700 ms MarkObjects: 75.324500 ms  DeleteObjects: 1.880900 ms)
+
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 31)
+
+Unloading 1803 unused Assets to reduce memory usage. Loaded Objects now: 14142.
+Total: 53.180500 ms (FindLiveObjects: 1.098100 ms CreateObjectMapping: 0.957500 ms MarkObjects: 47.085100 ms  DeleteObjects: 4.039300 ms)
+
+GlobalGameManager.GetBossNameFromLevel() did not find boss name value so Law will be used, is this intended?
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+TGBVersion: 1.7.216s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 38)
+
+Unloading 1512 unused Assets to reduce memory usage. Loaded Objects now: 23833.
+Total: 47.844600 ms (FindLiveObjects: 1.032200 ms CreateObjectMapping: 0.847100 ms MarkObjects: 45.535700 ms  DeleteObjects: 0.429300 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+

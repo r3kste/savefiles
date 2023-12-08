@@ -1,0 +1,229 @@
+Mono path[0] = 'Z:/Games/Furi/Furi_Data/Managed'
+Mono config path = 'Z:/Games/Furi/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path Z:/Games/Furi/Furi_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3950 MB
+    Driver:   31.0.15.4601
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.138 seconds
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.390300 ms
+WwiseUnity: Wwise(R) SDK Version 2021.1.6 Build 7774.
+WwiseUnity: Setting Plugin DLL path to: Z:/Games/Furi/Furi_Data\Plugins\x86_64
+WwiseUnity: Sound engine initialized successfully.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 22)
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+UnloadTime: 4.701900 ms
+InControl (version 1.8.7 build 9372)
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 5250.
+Total: 2.553600 ms (FindLiveObjects: 0.169600 ms CreateObjectMapping: 0.209600 ms MarkObjects: 2.098800 ms  DeleteObjects: 0.075300 ms)
+
+Shader 'Duels/FX/Particles/Simple Distortion': fallback shader 'Particles/Alpha Blended' not found
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 9b8 -> priority: 1 
+  Thread -> id: 180c -> priority: 1 
+  Thread -> id: 7ac -> priority: 1 
+  Thread -> id: 1144 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 32)
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+UnloadTime: 4.020700 ms
+TGBVersion: 1.7.216s
+
+Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 14452.
+Total: 10.336700 ms (FindLiveObjects: 1.163700 ms CreateObjectMapping: 0.459400 ms MarkObjects: 8.535400 ms  DeleteObjects: 0.178000 ms)
+
+Object reference not set to an instance of an object
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 34)
+
+Unloading 1041 unused Assets to reduce memory usage. Loaded Objects now: 13805.
+Total: 33.740400 ms (FindLiveObjects: 0.635400 ms CreateObjectMapping: 0.581600 ms MarkObjects: 31.358900 ms  DeleteObjects: 1.164100 ms)
+
+Shader 'Duels/FX/Shockwave': fallback shader 'Particles/Alpha Blended' not found
+Shader 'Duels/Unity5/VFX/Swipe Slash Radial Mask Additive': fallback shader 'Particles/Additive' not found
+Shader 'Duels/FX/Particles/Simple Distortion Texture': fallback shader 'Particles/Alpha Blended' not found
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+The projectile validity optimization is not available in this game (the projectile arena center is not set)
+Shader 'Duels/FX/Particles/Simple Distortion Texture (2D)': fallback shader 'Particles/Alpha Blended' not found
+Shader 'Duels/RingClip': fallback shader 'Transparent' not found
+NavMeshAgent and NavMeshObstacle components are active at the same time. This can lead to erroneous behavior.
+NavMeshAgent and NavMeshObstacle components are active at the same time. This can lead to erroneous behavior.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 43)
+
+Unloading 4514 unused Assets to reduce memory usage. Loaded Objects now: 45562.
+Total: 62.034600 ms (FindLiveObjects: 4.715900 ms CreateObjectMapping: 1.795200 ms MarkObjects: 54.081900 ms  DeleteObjects: 1.441300 ms)
+
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 31)
+
+Unloading 1257 unused Assets to reduce memory usage. Loaded Objects now: 14428.
+Total: 38.475900 ms (FindLiveObjects: 0.878100 ms CreateObjectMapping: 0.855400 ms MarkObjects: 34.616300 ms  DeleteObjects: 2.125700 ms)
+
+Shader 'Duels/FX/Particles/Simple Distortion Texture (2D) Mask': fallback shader 'Particles/Alpha Blended' not found
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+AddEventHandlerComponent: PlayMakerTriggerEnter
+AddEventHandlerComponent: PlayMakerFixedUpdate
+AddEventHandlerComponent: PlayMakerTriggerEnter
+AddEventHandlerComponent: PlayMakerFixedUpdate
+AddEventHandlerComponent: PlayMakerTriggerEnter
+AddEventHandlerComponent: PlayMakerFixedUpdate
+AddEventHandlerComponent: PlayMakerTriggerEnter
+AddEventHandlerComponent: PlayMakerFixedUpdate
+AddEventHandlerComponent: PlayMakerTriggerEnter
+AddEventHandlerComponent: PlayMakerFixedUpdate
+The projectile validity optimization is not available in this game (the projectile arena center is not set)
+Invalid vertex colors assigned to TH_path_snow_temp. Check the Maintenance window for your VPaint Group for more info.
+Shader 'Duels/FX/Particles/Simple Distortion Texture (2D)': fallback shader 'Particles/Alpha Blended' not found
+NavMeshAgent and NavMeshObstacle components are active at the same time. This can lead to erroneous behavior.
+Shader 'Duels/Unity5/VFX/EnergyShield': fallback shader 'Particles/Additive' not found
+Shader 'Duels/RingClip': fallback shader 'Transparent' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 43)
+
+Unloading 533 unused Assets to reduce memory usage. Loaded Objects now: 89518.
+Total: 101.825300 ms (FindLiveObjects: 5.797400 ms CreateObjectMapping: 1.865700 ms MarkObjects: 93.635400 ms  DeleteObjects: 0.526500 ms)
+
+NavMeshAgent and NavMeshObstacle components are active at the same time. This can lead to erroneous behavior.
+NavMeshAgent and NavMeshObstacle components are active at the same time. This can lead to erroneous behavior.
+NavMeshAgent and NavMeshObstacle components are active at the same time. This can lead to erroneous behavior.
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 31)
+
+Unloading 914 unused Assets to reduce memory usage. Loaded Objects now: 16342.
+Total: 57.468900 ms (FindLiveObjects: 1.022300 ms CreateObjectMapping: 1.729400 ms MarkObjects: 52.630700 ms  DeleteObjects: 2.086100 ms)
+
+GlobalGameManager.GetBossNameFromLevel() did not find boss name value so Law will be used, is this intended?
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+TGBVersion: 1.7.216s
+Invalid vertex colors assigned to TH_path_snow_temp. Check the Maintenance window for your VPaint Group for more info.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 33)
+
+Unloading 1635 unused Assets to reduce memory usage. Loaded Objects now: 29441.
+Total: 63.619500 ms (FindLiveObjects: 1.363000 ms CreateObjectMapping: 0.878500 ms MarkObjects: 60.345600 ms  DeleteObjects: 1.031800 ms)
+
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 33)
+
+Unloading 446 unused Assets to reduce memory usage. Loaded Objects now: 14870.
+Total: 59.350400 ms (FindLiveObjects: 0.596200 ms CreateObjectMapping: 0.566200 ms MarkObjects: 56.990400 ms  DeleteObjects: 1.197200 ms)
+
+Shader 'Duels/FX/Particles/Simple Distortion Texture (2D) Mask': fallback shader 'Particles/Alpha Blended' not found
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+AddEventHandlerComponent: PlayMakerTriggerEnter
+AddEventHandlerComponent: PlayMakerFixedUpdate
+AddEventHandlerComponent: PlayMakerTriggerEnter
+AddEventHandlerComponent: PlayMakerFixedUpdate
+AddEventHandlerComponent: PlayMakerTriggerEnter
+AddEventHandlerComponent: PlayMakerFixedUpdate
+AddEventHandlerComponent: PlayMakerTriggerEnter
+AddEventHandlerComponent: PlayMakerFixedUpdate
+AddEventHandlerComponent: PlayMakerTriggerEnter
+AddEventHandlerComponent: PlayMakerFixedUpdate
+The projectile validity optimization is not available in this game (the projectile arena center is not set)
+Invalid vertex colors assigned to TH_path_snow_temp. Check the Maintenance window for your VPaint Group for more info.
+Shader 'Duels/FX/Particles/Simple Distortion Texture (2D)': fallback shader 'Particles/Alpha Blended' not found
+Shader 'Duels/Unity5/VFX/EnergyShield': fallback shader 'Particles/Additive' not found
+NavMeshAgent and NavMeshObstacle components are active at the same time. This can lead to erroneous behavior.
+Shader 'Duels/RingClip': fallback shader 'Transparent' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 43)
+
+Unloading 523 unused Assets to reduce memory usage. Loaded Objects now: 89599.
+Total: 117.098200 ms (FindLiveObjects: 6.242800 ms CreateObjectMapping: 1.884500 ms MarkObjects: 108.510200 ms  DeleteObjects: 0.460400 ms)
+
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 31)
+
+Unloading 2388 unused Assets to reduce memory usage. Loaded Objects now: 15250.
+Total: 76.253000 ms (FindLiveObjects: 1.977700 ms CreateObjectMapping: 0.921000 ms MarkObjects: 68.831200 ms  DeleteObjects: 4.522700 ms)
+
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Shader 'Duels/FX/Particles/Simple Distortion Texture (2D)': fallback shader 'Particles/Alpha Blended' not found
+The projectile validity optimization is not available in this game (the projectile arena center is not set)
+Scene with empty PoolSceneProfile
+Unloading 1 Unused Serialized files (Serialized files now loaded: 43)
+
+Unloading 7767 unused Assets to reduce memory usage. Loaded Objects now: 54788.
+Total: 92.309200 ms (FindLiveObjects: 3.796000 ms CreateObjectMapping: 2.025200 ms MarkObjects: 83.115400 ms  DeleteObjects: 3.372200 ms)
+
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 31)
+
+Unloading 2736 unused Assets to reduce memory usage. Loaded Objects now: 15300.
+Total: 77.392200 ms (FindLiveObjects: 0.938000 ms CreateObjectMapping: 1.000600 ms MarkObjects: 70.264400 ms  DeleteObjects: 5.188900 ms)
+
+Shader 'Duels/FX/Particles/Simple Distortion Texture (2D)': fallback shader 'Particles/Alpha Blended' not found
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+PlayerPawnController : can't find Sword Collider transform from MC's root (path : MC_FS(Clone)/SwordColliderTest).MC will probably make no damage
+Shader 'Duels/RingClip': fallback shader 'Transparent' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 43)
+
+Unloading 3499 unused Assets to reduce memory usage. Loaded Objects now: 117758.
+Total: 151.083800 ms (FindLiveObjects: 7.400000 ms CreateObjectMapping: 2.780800 ms MarkObjects: 139.162700 ms  DeleteObjects: 1.740000 ms)
+
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120LR" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120RL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120LR" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120RL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120LR" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120RL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120LR" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120RL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120LR" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120RL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120LR" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120RL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+Laser "VFX_MothershipDrone_Laser" from pattern "DroneLaserBackAndForth120SlowRL" will be interrupted to allow a new laser to be fired
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 31)
+
+Unloading 1706 unused Assets to reduce memory usage. Loaded Objects now: 15807.
+Total: 108.555300 ms (FindLiveObjects: 1.119200 ms CreateObjectMapping: 1.983500 ms MarkObjects: 100.848100 ms  DeleteObjects: 4.603900 ms)
+
+GlobalGameManager.GetBossNameFromLevel() did not find boss name value so Law will be used, is this intended?
+WwiseUnity: There are multiple AkWwiseInitializationSettings objects instantiated; only one will be used.
+TGBVersion: 1.7.216s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 33)
+
+Unloading 2239 unused Assets to reduce memory usage. Loaded Objects now: 26327.
+Total: 112.613000 ms (FindLiveObjects: 1.703500 ms CreateObjectMapping: 2.262900 ms MarkObjects: 107.798700 ms  DeleteObjects: 0.847400 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material.SetFloatImpl(UnityEngine.Material,int,single)
+  at UnityEngine.Material.SetFloat (System.String name, System.Single value) [0x00008] in <ad199b1c67244da3a5ed230e5d202f21>:0 
+  at UIBorderSizeHandler.OnDestroy () [0x00000] in <311c1c2ec01a4fd7b97bd00917ea8d53>:0 
+
